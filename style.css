@@ -1,0 +1,20 @@
+table{
+    border: 5px;
+    border-color: rgba(3, 0, 0, 0.918);
+    border-radius: 10%;
+    background-color: rgb(7, 6, 7);
+}
+tr{
+    border: 5px;
+    border-color: rgb(5, 5, 5);
+    background-color: rgb(236, 20, 164);
+}
+header{
+    text-align: center;
+}
+main{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
